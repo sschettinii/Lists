@@ -12,6 +12,10 @@ A curated collection of technical articles accumulated from around the web.
 
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 
+**Math**
+
+- [Functions Are Vectors](https://thenumb.at/Functions-are-Vectors/)
+
 **References**
 
 - [Max Slater](https://thenumb.at/)
