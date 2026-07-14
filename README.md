@@ -13,6 +13,10 @@ A curated collection of technical articles accumulated from around the web.
 
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 
+**Machine Learning**
+
+- [A comprehensive survey on regularization strategies in machine learning](https://www.sciencedirect.com/science/article/pii/S156625352100230X)
+
 **Math**
 
 - [Functions Are Vectors](https://thenumb.at/Functions-are-Vectors/)
