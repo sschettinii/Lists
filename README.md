@@ -19,7 +19,7 @@ A curated collection of technical articles accumulated from around the web.
 
 **Statistics**
 
-- [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
+- [Maximum Likelihood Estimation](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/maximum-likelihood-estimation/)
 
 **References**
 
