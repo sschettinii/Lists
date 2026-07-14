@@ -17,6 +17,10 @@ A curated collection of technical articles accumulated from around the web.
 
 - [Functions Are Vectors](https://thenumb.at/Functions-are-Vectors/)
 
+**Statistics**
+
+- [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
+
 **References**
 
 - [Max Slater](https://thenumb.at/)
