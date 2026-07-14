@@ -7,6 +7,7 @@ A curated collection of technical articles accumulated from around the web.
 
 **Deep Learning**
 - [Deep Learning Ian Goodfellow](https://www.deeplearningbook.org/)
+- [Recurrent Neural Net Learning and Vanishing Gradient](https://ml.jku.at/publications/older/2904.pdf)
 
 **Natural Language Processing**
 
