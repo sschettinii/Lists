@@ -11,7 +11,7 @@ A curated collection of technical articles accumulated from around the web.
 
 **Genetic Algorithms**
 - [Genetic algorithms in search, optimization, and machine learning](https://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
-- [An Introduction to Genetic Algorithms](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
+- [An Introduction to Genetic Algorithms](https://direct.mit.edu/books/monograph/4675/An-Introduction-to-Genetic-Algorithms)
 
 **Natural Language Processing**
 
