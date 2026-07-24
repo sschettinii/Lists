@@ -9,6 +9,10 @@ A curated collection of technical articles accumulated from around the web.
 - [Deep Learning Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Recurrent Neural Net Learning and Vanishing Gradient](https://ml.jku.at/publications/older/2904.pdf)
 
+**Genetic Algorithms**
+- [Genetic algorithms in search, optimization, and machine learning](https://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
+- [An Introduction to Genetic Algorithms](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
+
 **Natural Language Processing**
 
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
