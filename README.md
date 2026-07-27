@@ -8,6 +8,7 @@ A curated collection of technical articles accumulated from around the web.
 **Deep Learning**
 - [Deep Learning Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Recurrent Neural Net Learning and Vanishing Gradient](https://ml.jku.at/publications/older/2904.pdf)
+- [Universal Approximation Theorem, G. Cybenko](https://user-web-p-u02.wpi.edu/~msarkis/BrownBag/Elisa1.pdf)
 
 **Genetic Algorithms**
 - [Genetic algorithms in search, optimization, and machine learning](https://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
