@@ -21,6 +21,7 @@ A curated collection of technical articles accumulated from around the web.
 **Machine Learning**
 
 - [A comprehensive survey on regularization strategies in machine learning](https://www.sciencedirect.com/science/article/pii/S156625352100230X)
+- [No Free Lunch Theorem](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=585893)
 
 **Math**
 
