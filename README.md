@@ -14,9 +14,8 @@ A curated collection of technical articles accumulated from around the web.
 - [Genetic algorithms in search, optimization, and machine learning](https://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
 - [An Introduction to Genetic Algorithms](https://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
 
-**Natural Language Processing**
-
-- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+**LLM**
+- [Intuitions on Language Models (Jason)](https://www.youtube.com/watch?v=3gb-ZkVRemQ)
 
 **Machine Learning**
 
@@ -26,6 +25,11 @@ A curated collection of technical articles accumulated from around the web.
 **Math**
 
 - [Functions Are Vectors](https://thenumb.at/Functions-are-Vectors/)
+
+**Natural Language Processing**
+
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+
 
 **Statistics**
 
