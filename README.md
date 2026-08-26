@@ -1,6 +1,16 @@
 # Bookmarks
-A curated collection of technical articles accumulated from around the web.
+A curated collection of technical articles accumulated from around the web.  
 
+**Classic Supervised ML**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Classification**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...  
+&nbsp;&nbsp;&nbsp;&nbsp;**Regression**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...  
+
+**Classic Unsupervised ML**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Clustering**  
+- [Machine Intelligence - Lecture 7 (Clustering, k-means, SOM)](https://www.youtube.com/watch?v=lFbxTlD5R98&t=2500s)  
+  
 **Data Mining**
 - [Data Mining: Concepts and Techniques](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 - [Data Preprocessing in Data Mining](https://users.ece.utexas.edu/~ethomaz/courses/dm/papers/data-preprocessing-book.pdf)
