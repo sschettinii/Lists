@@ -35,7 +35,7 @@ A curated collection of technical articles accumulated from around the web.
 
 - [Maximum Likelihood Estimation](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/maximum-likelihood-estimation/)
 
-**Stream**
+**Data Stream**
 
 - [Multi-label Stream Classification with Self-Organizing Maps](https://arxiv.org/html/2004.09397v1)
 
