@@ -20,6 +20,10 @@ A curated collection of technical articles accumulated from around the web.
 - [Recurrent Neural Net Learning and Vanishing Gradient](https://ml.jku.at/publications/older/2904.pdf)
 - [Universal Approximation Theorem, G. Cybenko](https://user-web-p-u02.wpi.edu/~msarkis/BrownBag/Elisa1.pdf)
 
+**Dimensionality Reduction**
+- [Nonparametric Dimensionality Reduction Quality Assessment based
+on Sortedness of Unrestricted Neighborhood](https://repositorio.usp.br/directbitstream/2597794c-2c0f-4c32-8dce-db5b8496a08a/3172748.pdf)
+
 **Genetic Algorithms**
 - [Genetic algorithms in search, optimization, and machine learning](https://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
 - [An Introduction to Genetic Algorithms](https://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
